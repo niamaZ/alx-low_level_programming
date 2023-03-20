@@ -1,1 +1,1 @@
-0. Positive anything is better than negative nothing
+A README.md file, at the root of the folder of the project
